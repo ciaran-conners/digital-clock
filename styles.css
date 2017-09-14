@@ -1,0 +1,9 @@
+.clock-box {
+  background-color: black;
+}
+.clock-face {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 100px;
+  color: white;
+  text-align: center;
+}

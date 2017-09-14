@@ -1,0 +1,17 @@
+{
+  "name": "digital-clock",
+  "version": "1.0.0",
+  "description": "a javascript digital clock built with React.js",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "./node_modules/.bin/babel script.js --out-file script-compiled.js"
+  },
+  "author": "Ciaran Martin Conners",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
